@@ -1,4 +1,4 @@
-# Sher - The Ultimate Calendly Clone
+# SherSchedule-AI-Powered-Smart-Booking-Platform
 
 Sher is a modern, full-stack call booking application designed to streamline meeting scheduling with seamless automation, a responsive UI, and robust authentication. Built from scratch, this project showcases innovative implementations and integrations for an efficient and user-friendly experience.
 
